@@ -59,4 +59,4 @@ Want WatchDog to do more than just watch? The **Autopilot** feature lets WatchDo
 
 WatchDog is a project by **LogicForge** — making AI and useful tools free and accessible for everyone.
 
-🌐 [logicforge.dev](https://logicforge.dev) &nbsp;|&nbsp; 🐛 [Report a Bug](https://logicforge.dev/support.html)
+🌐 [logicforge.work](https://logicforge.work) &nbsp;|&nbsp; 🐛 [Report a Bug](https://logicforge.work/support)
