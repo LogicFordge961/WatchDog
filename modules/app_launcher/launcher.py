@@ -3,6 +3,7 @@ import os
 import subprocess
 import json
 from core.logger import get_logger
+from modules.process_manager.monitor import ProcessMonitor
 
 class AppLauncher:
     def __init__(self, registry_file="data/registry.json"):
@@ -75,7 +76,6 @@ class AppLauncher:
                     return f"❌ Failed to launch {app['name']}: {e}"
             else:
                 # Try to find running process instead
-                from modules.process_manager.monitor import ProcessMonitor
                 monitor = ProcessMonitor()
                 processes = monitor.find_process_by_name(app_name)
                 if processes:

@@ -22,7 +22,7 @@ class ConfigManager:
             try:
                 with open(self.config_path, 'r') as f:
                     return json.load(f)
-            except:
+            except Exception as e:
                 return DEFAULT_SETTINGS.copy()
         else:
             self.save_settings(DEFAULT_SETTINGS)
@@ -39,6 +39,8 @@ class ConfigManager:
     def set(self, key, value):
         self.settings[key] = value
         self.save_settings(self.settings)
+    
+    @staticmethod
     def get_config_path():
         if getattr(sys, 'frozen', False):
             return os.path.join(os.path.dirname(sys.executable), "config/settings.json")

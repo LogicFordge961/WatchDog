@@ -282,7 +282,7 @@ class GitHubUpdater:
                     if confirm.lower() != 'y':
                         self.logger.info("Update cancelled by user")
                         return False
-                except:
+                except Exception as e:
                     # If input fails, proceed with update
                     self.logger.info("Proceeding with update...")
             
@@ -316,7 +316,7 @@ class GitHubUpdater:
                         os.remove(update_file)
                     if temp_dir and os.path.exists(temp_dir):
                         shutil.rmtree(temp_dir, ignore_errors=True)
-                except:
+                except Exception as e:
                     pass
                 return False
                 

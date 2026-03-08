@@ -6,6 +6,7 @@ WatchDog - System Intelligence Framework
 import sys
 import os
 import json
+import argparse
 
 # Add this at the VERY TOP to fix path issues
 # When frozen by PyInstaller, use sys._MEIPASS (temporary folder where bundle is unpacked).
@@ -33,6 +34,10 @@ except ImportError as e:
     sys.exit(1)
 
 def main():
+    parser = argparse.ArgumentParser(description="WatchDog - System Intelligence Framework")
+    parser.add_argument('--cli', action='store_true', help='Launch CLI interface')
+    args = parser.parse_args()
+
     try:
         # Setup logging
         setup_logging()
@@ -55,10 +60,22 @@ def main():
         # Check for updates (honor config auto_update)
         check_for_updates(auto_update=auto_update)
 
-        # Start CLI
-        print(f"🤖 Welcome to WatchDog v{app_version}. Type 'help' for commands.")
-        cli = WatchDogCLI()
-        cli.run()
+        if args.cli:
+            # Start CLI
+            print(f"🤖 Welcome to WatchDog v{app_version}. Type 'help' for commands.")
+            cli = WatchDogCLI()
+            cli.run()
+        else:
+            # Launch GUI
+            try:
+                import tkinter as tk
+                from ui.gui import WatchDogGUI
+                root = tk.Tk()
+                app = WatchDogGUI(root)
+                root.mainloop()
+            except ImportError:
+                print("❌ Tkinter not available. Install tkinter or use --cli mode.")
+                sys.exit(1)
         
     except KeyboardInterrupt:
         print("\n👋 Goodbye!")

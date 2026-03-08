@@ -1,7 +1,7 @@
 import psutil
 import random
 import re
-from typing import Dict, List, Tuple
+from typing import Any, Dict, List, Tuple
 import ollama
 import subprocess
 import platform
@@ -83,7 +83,7 @@ class AIPoweredAssistant:
             self.conversation_history = []
             self.system_context = {}
     
-    def query_ai(self, user_input: str) -> Dict[str, any]:
+    def query_ai(self, user_input: str) -> Dict[str, Any]:
         if self.use_ollama:
             # Use Ollama AI for natural language responses
             response = self.ollama_ai.chat(user_input)
@@ -98,7 +98,7 @@ class AIPoweredAssistant:
             # Fallback to basic assistant
             return self._basic_query(user_input)
     
-    def _basic_query(self, user_input: str) -> Dict[str, any]:
+    def _basic_query(self, user_input: str) -> Dict[str, Any]:
         """Basic fallback implementation"""
         try:
             self.system_context = self._get_system_context()

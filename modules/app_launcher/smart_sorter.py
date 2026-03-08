@@ -91,7 +91,7 @@ class SmartAppSorter:
         try:
             for proc in psutil.process_iter(['name']):
                 running_processes.append(proc.info['name'].lower().replace('.exe', ''))
-        except:
+        except Exception as e:
             pass
         
         ranked_apps = []

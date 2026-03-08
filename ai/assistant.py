@@ -1,7 +1,7 @@
 import psutil
 import random
 import re
-from typing import Dict, List, Tuple
+from typing import Any, Dict, List, Tuple
 import ollama
 import subprocess
 import platform
@@ -83,7 +83,7 @@ class AIPoweredAssistant:
             self.conversation_history = []
             self.system_context = {}
     
-    def query_ai(self, user_input: str) -> Dict[str, any]:
+    def query_ai(self, user_input: str) -> Dict[str, Any]:
         if self.use_ollama:
             # Use Ollama AI for natural language responses
             response = self.ollama_ai.chat(user_input)
@@ -98,7 +98,7 @@ class AIPoweredAssistant:
             # Fallback to basic assistant
             return self._basic_query(user_input)
     
-    def _basic_query(self, user_input: str) -> Dict[str, any]:
+    def _basic_query(self, user_input: str) -> Dict[str, Any]:
         """Basic fallback implementation"""
         try:
             self.system_context = self._get_system_context()
@@ -126,7 +126,10 @@ class AIPoweredAssistant:
         try:
             cpu_percent = psutil.cpu_percent(interval=0.5)
             memory = psutil.virtual_memory()
-            disk = psutil.disk_usage('C:') if psutil.disk_usage('C:') else None
+            try:
+                disk = psutil.disk_usage('/')
+            except:
+                disk = None
             
             return {
                 'cpu_percent': cpu_percent,
@@ -137,7 +140,7 @@ class AIPoweredAssistant:
                 'disk_free_gb': round(disk.free / (1024**3), 2) if disk else 0,
                 'running_processes': len(psutil.pids())
             }
-        except:
+        except Exception as e:
             return {
                 'cpu_percent': 0,
                 'memory_percent': 0,
