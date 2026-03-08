@@ -1,0 +1,18 @@
+# Exclude system-related and generated folders
+watchdog-env/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude data folders that might contain logs or cache
+data/cache/
+data/logs/
+
+# Exclude releases folder
+releases/
+
+# Exclude other potential build artifacts
+dist/
+*.spec
