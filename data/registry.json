@@ -1,0 +1,2000 @@
+{
+  "chrome": {
+    "name": "chrome",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "size": 3313816,
+    "importance_score": 15
+  },
+  "discord": {
+    "name": "Discord",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Discord\\app-1.0.9224\\Discord.exe",
+    "size": 195521976,
+    "importance_score": 13
+  },
+  "chrome_proxy": {
+    "name": "chrome_proxy",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+    "size": 1564824,
+    "importance_score": 10
+  },
+  "new_chrome": {
+    "name": "new_chrome",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\new_chrome.exe",
+    "size": 3382424,
+    "importance_score": 10
+  },
+  "new_chrome_proxy": {
+    "name": "new_chrome_proxy",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\new_chrome_proxy.exe",
+    "size": 1573016,
+    "importance_score": 10
+  },
+  "chrome_pwa_launcher": {
+    "name": "chrome_pwa_launcher",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\145.0.7632.110\\chrome_pwa_launcher.exe",
+    "size": 1881240,
+    "importance_score": 10
+  },
+  "excelcnv": {
+    "name": "excelcnv",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\excelcnv.exe",
+    "size": 51298032,
+    "importance_score": 10
+  },
+  "steamcmd": {
+    "name": "steamcmd",
+    "path": "C:\\Program Files\\Playcast\\Host\\Steam\\steamcmd.exe",
+    "size": 1699408,
+    "importance_score": 10
+  },
+  "steamxboxutil64": {
+    "name": "steamxboxutil64",
+    "path": "C:\\Program Files (x86)\\Common Files\\Steam\\steamxboxutil64.exe",
+    "size": 771736,
+    "importance_score": 10
+  },
+  "steam": {
+    "name": "steam",
+    "path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "size": 5760152,
+    "importance_score": 10
+  },
+  "steamsysinfo": {
+    "name": "steamsysinfo",
+    "path": "C:\\Program Files (x86)\\Steam\\steamsysinfo.exe",
+    "size": 1296024,
+    "importance_score": 10
+  },
+  "steamxboxutil": {
+    "name": "steamxboxutil",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\steamxboxutil.exe",
+    "size": 645272,
+    "importance_score": 10
+  },
+  "steam_monitor": {
+    "name": "steam_monitor",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\steam_monitor.exe",
+    "size": 687768,
+    "importance_score": 10
+  },
+  "notepad": {
+    "name": "notepad",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Microsoft\\WindowsApps\\notepad.exe",
+    "size": 0,
+    "importance_score": 10
+  },
+  "old_chrome": {
+    "name": "old_chrome",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Perplexity\\Comet\\Temp\\scoped_dir18952_652358615\\old_chrome.exe",
+    "size": 3237752,
+    "importance_score": 10
+  },
+  "code": {
+    "name": "Code",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "size": 202509384,
+    "importance_score": 8
+  },
+  "appvshnotify": {
+    "name": "AppVShNotify",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\AppVShNotify.exe",
+    "size": 224664,
+    "importance_score": 5
+  },
+  "officeclicktorun": {
+    "name": "OfficeClickToRun",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+    "size": 13235088,
+    "importance_score": 5
+  },
+  "playcasttrayapp": {
+    "name": "PlaycastTrayApp",
+    "path": "C:\\Program Files\\Playcast\\PlaycastTrayApp.exe",
+    "size": 281248,
+    "importance_score": 5
+  },
+  "vpnclient_x64": {
+    "name": "vpnclient_x64",
+    "path": "C:\\Program Files\\Playcast\\SoftEtherVPN\\vpnclient_x64.exe",
+    "size": 7048960,
+    "importance_score": 5
+  },
+  "msedgewebview2": {
+    "name": "msedgewebview2",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.70\\msedgewebview2.exe",
+    "size": 3801168,
+    "importance_score": 5
+  },
+  "wallpaper64": {
+    "name": "wallpaper64",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper64.exe",
+    "size": 4649456,
+    "importance_score": 5
+  },
+  "python": {
+    "name": "python",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "size": 103704,
+    "importance_score": 5
+  },
+  "marvelrivals_launcher": {
+    "name": "MarvelRivals_Launcher",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\MarvelRivals_Launcher.exe",
+    "size": 108686336,
+    "importance_score": 3
+  },
+  "oculusclient": {
+    "name": "OculusClient",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-client\\OculusClient.exe",
+    "size": 176618496,
+    "importance_score": 3
+  },
+  "remotedesktopcompanion": {
+    "name": "RemoteDesktopCompanion",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-remote-desktop\\RemoteDesktopCompanion.exe",
+    "size": 60927752,
+    "importance_score": 3
+  },
+  "playcasthost": {
+    "name": "PlaycastHost",
+    "path": "C:\\Program Files\\Playcast\\Host\\PlaycastHost.exe",
+    "size": 202256544,
+    "importance_score": 3
+  },
+  "labs": {
+    "name": "LABS",
+    "path": "C:\\Program Files\\Spitfire Audio\\LABS\\LABS.exe",
+    "size": 65596416,
+    "importance_score": 3
+  },
+  "unity hub": {
+    "name": "Unity Hub",
+    "path": "C:\\Program Files\\Unity Hub\\Unity Hub.exe",
+    "size": 206245800,
+    "importance_score": 3
+  },
+  "planetzoo": {
+    "name": "PlanetZoo",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Planet Zoo\\PlanetZoo.exe",
+    "size": 327941120,
+    "importance_score": 3
+  },
+  "balenaetcher": {
+    "name": "balenaEtcher",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\balena_etcher\\app-2.1.4\\balenaEtcher.exe",
+    "size": 205846168,
+    "importance_score": 3
+  },
+  "etcher-util": {
+    "name": "etcher-util",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\balena_etcher\\app-2.1.4\\resources\\etcher-util.exe",
+    "size": 225991512,
+    "importance_score": 3
+  },
+  "githubdesktop": {
+    "name": "GitHubDesktop",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\GitHubDesktop\\app-3.5.4\\GitHubDesktop.exe",
+    "size": 211245016,
+    "importance_score": 3
+  },
+  "robloxstudiobeta": {
+    "name": "RobloxStudioBeta",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Roblox\\Versions\\version-260f9e4fe1c74bfb\\RobloxStudioBeta.exe",
+    "size": 193120720,
+    "importance_score": 3
+  },
+  "robloxplayerbeta": {
+    "name": "RobloxPlayerBeta",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Roblox\\Versions\\version-8e6e698468a04d3f\\RobloxPlayerBeta.exe",
+    "size": 113946064,
+    "importance_score": 3
+  },
+  "mdnsresponder": {
+    "name": "mDNSResponder",
+    "path": "C:\\Program Files\\Bonjour\\mDNSResponder.exe",
+    "size": 462096,
+    "importance_score": 0
+  },
+  "lame": {
+    "name": "lame",
+    "path": "C:\\Program Files\\Cakewalk\\Next\\lame.exe",
+    "size": 1741112,
+    "importance_score": 0
+  },
+  "next": {
+    "name": "Next",
+    "path": "C:\\Program Files\\Cakewalk\\Next\\Next.exe",
+    "size": 33657144,
+    "importance_score": 0
+  },
+  "xcdpluginscan": {
+    "name": "XCDPluginScan",
+    "path": "C:\\Program Files\\Cakewalk\\Next\\XCDPluginScan.exe",
+    "size": 5383480,
+    "importance_score": 0
+  },
+  "productcenter": {
+    "name": "ProductCenter",
+    "path": "C:\\Program Files\\Cakewalk\\Product Center\\ProductCenter.exe",
+    "size": 11159352,
+    "importance_score": 0
+  },
+  "appvcleaner": {
+    "name": "appvcleaner",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\appvcleaner.exe",
+    "size": 1500544,
+    "importance_score": 0
+  },
+  "integratedoffice": {
+    "name": "IntegratedOffice",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\IntegratedOffice.exe",
+    "size": 4907896,
+    "importance_score": 0
+  },
+  "mavinject32": {
+    "name": "MavInject32",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\MavInject32.exe",
+    "size": 166184,
+    "importance_score": 0
+  },
+  "officec2rclient": {
+    "name": "OfficeC2RClient",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeC2RClient.exe",
+    "size": 28625808,
+    "importance_score": 0
+  },
+  "officesvcmgr": {
+    "name": "officesvcmgr",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\officesvcmgr.exe",
+    "size": 4447856,
+    "importance_score": 0
+  },
+  "tabtip": {
+    "name": "TabTip",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ink\\TabTip.exe",
+    "size": 584088,
+    "importance_score": 0
+  },
+  "msinfo32": {
+    "name": "msinfo32",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\MSInfo\\msinfo32.exe",
+    "size": 376832,
+    "importance_score": 0
+  },
+  "dotnet": {
+    "name": "dotnet",
+    "path": "C:\\Program Files\\dotnet\\dotnet.exe",
+    "size": 162080,
+    "importance_score": 0
+  },
+  "asphalt8_epic": {
+    "name": "Asphalt8_Epic",
+    "path": "C:\\Program Files\\Epic Games\\Asphalt8CarRacingGamUgRyh\\Asphalt8_Epic.exe",
+    "size": 34459648,
+    "importance_score": 0
+  },
+  "eosbootstrapper": {
+    "name": "EOSBootstrapper",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\EOSBootstrapper.exe",
+    "size": 2627072,
+    "importance_score": 0
+  },
+  "fallguys_client": {
+    "name": "FallGuys_client",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\FallGuys_client.exe",
+    "size": 1156608,
+    "importance_score": 0
+  },
+  "fallguys_client_game": {
+    "name": "FallGuys_client_game",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\FallGuys_client_game.exe",
+    "size": 653824,
+    "importance_score": 0
+  },
+  "runfallguys": {
+    "name": "RunFallGuys",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\RunFallGuys.exe",
+    "size": 13775736,
+    "importance_score": 0
+  },
+  "start_protected_game": {
+    "name": "start_protected_game",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\start_protected_game.exe",
+    "size": 3946736,
+    "importance_score": 0
+  },
+  "vc_redist.x64": {
+    "name": "VC_redist.x64",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\Redistributables\\VC_redist.x64.exe",
+    "size": 25355496,
+    "importance_score": 0
+  },
+  "vc_redist.x86": {
+    "name": "VC_redist.x86",
+    "path": "C:\\Program Files\\Epic Games\\FallGuys\\Redistributables\\VC_redist.x86.exe",
+    "size": 13837672,
+    "importance_score": 0
+  },
+  "capturepro": {
+    "name": "CapturePro",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\CapturePro.exe",
+    "size": 27591952,
+    "importance_score": 0
+  },
+  "client_diagnose": {
+    "name": "client_diagnose",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\client_diagnose.exe",
+    "size": 20844776,
+    "importance_score": 0
+  },
+  "upload_profile": {
+    "name": "upload_profile",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\upload_profile.exe",
+    "size": 10364512,
+    "importance_score": 0
+  },
+  "marvel": {
+    "name": "Marvel",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\MarvelGame\\Marvel.exe",
+    "size": 13051904,
+    "importance_score": 0
+  },
+  "qtwebengineprocess": {
+    "name": "QtWebEngineProcess",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\PySide6\\QtWebEngineProcess.exe",
+    "size": 583824,
+    "importance_score": 0
+  },
+  "game_graphics_setter": {
+    "name": "game_graphics_setter",
+    "path": "C:\\Program Files\\Epic Games\\MarvelRivalsjKtnW\\tools\\game_graphics_setter.exe",
+    "size": 412672,
+    "importance_score": 0
+  },
+  "rocketleague": {
+    "name": "RocketLeague",
+    "path": "C:\\Program Files\\Epic Games\\rocketleague\\Binaries\\Win64\\RocketLeague.exe",
+    "size": 38540624,
+    "importance_score": 0
+  },
+  "vmcreate": {
+    "name": "VMCreate",
+    "path": "C:\\Program Files\\Hyper-V\\VMCreate.exe",
+    "size": 290160,
+    "importance_score": 0
+  },
+  "vmimport": {
+    "name": "VMImport",
+    "path": "C:\\Program Files\\Hyper-V\\VMImport.exe",
+    "size": 211912,
+    "importance_score": 0
+  },
+  "iediagcmd": {
+    "name": "iediagcmd",
+    "path": "C:\\Program Files\\Internet Explorer\\iediagcmd.exe",
+    "size": 540672,
+    "importance_score": 0
+  },
+  "ieinstal": {
+    "name": "ieinstal",
+    "path": "C:\\Program Files\\Internet Explorer\\ieinstal.exe",
+    "size": 331776,
+    "importance_score": 0
+  },
+  "ielowutil": {
+    "name": "ielowutil",
+    "path": "C:\\Program Files\\Internet Explorer\\ielowutil.exe",
+    "size": 245760,
+    "importance_score": 0
+  },
+  "iexplore": {
+    "name": "iexplore",
+    "path": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+    "size": 846192,
+    "importance_score": 0
+  },
+  "java": {
+    "name": "java",
+    "path": "C:\\Program Files\\Java\\jre1.8.0_451\\bin\\java.exe",
+    "size": 309376,
+    "importance_score": 0
+  },
+  "javacpl": {
+    "name": "javacpl",
+    "path": "C:\\Program Files\\Java\\jre1.8.0_451\\bin\\javacpl.exe",
+    "size": 105592,
+    "importance_score": 0
+  },
+  "javaw": {
+    "name": "javaw",
+    "path": "C:\\Program Files\\Java\\jre1.8.0_451\\bin\\javaw.exe",
+    "size": 309376,
+    "importance_score": 0
+  },
+  "javaws": {
+    "name": "javaws",
+    "path": "C:\\Program Files\\Java\\jre1.8.0_451\\bin\\javaws.exe",
+    "size": 490616,
+    "importance_score": 0
+  },
+  "jp2launcher": {
+    "name": "jp2launcher",
+    "path": "C:\\Program Files\\Java\\jre1.8.0_451\\bin\\jp2launcher.exe",
+    "size": 152704,
+    "importance_score": 0
+  },
+  "unpack200": {
+    "name": "unpack200",
+    "path": "C:\\Program Files\\Java\\jre1.8.0_451\\bin\\unpack200.exe",
+    "size": 225408,
+    "importance_score": 0
+  },
+  "appvdllsurrogate": {
+    "name": "AppVDllSurrogate",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVDllSurrogate.exe",
+    "size": 185584,
+    "importance_score": 0
+  },
+  "appvdllsurrogate32": {
+    "name": "AppVDllSurrogate32",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVDllSurrogate32.exe",
+    "size": 154888,
+    "importance_score": 0
+  },
+  "appvdllsurrogate64": {
+    "name": "AppVDllSurrogate64",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVDllSurrogate64.exe",
+    "size": 185584,
+    "importance_score": 0
+  },
+  "appvlp": {
+    "name": "AppVLP",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVLP.exe",
+    "size": 496520,
+    "importance_score": 0
+  },
+  "integrator": {
+    "name": "Integrator",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Integration\\Integrator.exe",
+    "size": 6254416,
+    "importance_score": 0
+  },
+  "misc": {
+    "name": "misc",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\misc.exe",
+    "size": 1042176,
+    "importance_score": 0
+  },
+  "msoadfsb": {
+    "name": "msoadfsb",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoadfsb.exe",
+    "size": 2755352,
+    "importance_score": 0
+  },
+  "msoasb": {
+    "name": "msoasb",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoasb.exe",
+    "size": 511880,
+    "importance_score": 0
+  },
+  "officeappguardwin32": {
+    "name": "officeappguardwin32",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\officeappguardwin32.exe",
+    "size": 1589560,
+    "importance_score": 0
+  },
+  "officescrbroker": {
+    "name": "OfficeScrBroker",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OfficeScrBroker.exe",
+    "size": 905480,
+    "importance_score": 0
+  },
+  "officescrsanbroker": {
+    "name": "OfficeScrSanBroker",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OfficeScrSanBroker.exe",
+    "size": 1057120,
+    "importance_score": 0
+  },
+  "perfboost": {
+    "name": "PerfBoost",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\PerfBoost.exe",
+    "size": 411512,
+    "importance_score": 0
+  },
+  "protocolhandler": {
+    "name": "protocolhandler",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\protocolhandler.exe",
+    "size": 16252144,
+    "importance_score": 0
+  },
+  "writingassistant": {
+    "name": "WritingAssistant",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WritingAssistant\\WritingAssistant.exe",
+    "size": 16651000,
+    "importance_score": 0
+  },
+  "onedrive.app": {
+    "name": "OneDrive.App",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.App.exe",
+    "size": 950632,
+    "importance_score": 0
+  },
+  "obs-qsv-test": {
+    "name": "obs-qsv-test",
+    "path": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs-qsv-test.exe",
+    "size": 298368,
+    "importance_score": 0
+  },
+  "obs64": {
+    "name": "obs64",
+    "path": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe",
+    "size": 5271936,
+    "importance_score": 0
+  },
+  "get-graphics-offsets32": {
+    "name": "get-graphics-offsets32",
+    "path": "C:\\Program Files\\obs-studio\\data\\obs-plugins\\win-capture\\get-graphics-offsets32.exe",
+    "size": 124288,
+    "importance_score": 0
+  },
+  "get-graphics-offsets64": {
+    "name": "get-graphics-offsets64",
+    "path": "C:\\Program Files\\obs-studio\\data\\obs-plugins\\win-capture\\get-graphics-offsets64.exe",
+    "size": 150912,
+    "importance_score": 0
+  },
+  "obs-browser-page": {
+    "name": "obs-browser-page",
+    "path": "C:\\Program Files\\obs-studio\\obs-plugins\\64bit\\obs-browser-page.exe",
+    "size": 563072,
+    "importance_score": 0
+  },
+  "fixer": {
+    "name": "Fixer",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\Fixer.exe",
+    "size": 392448,
+    "importance_score": 0
+  },
+  "oculusdebugtool": {
+    "name": "OculusDebugTool",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\OculusDebugTool.exe",
+    "size": 9489656,
+    "importance_score": 0
+  },
+  "oculusdebugtoolcli": {
+    "name": "OculusDebugToolCLI",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\OculusDebugToolCLI.exe",
+    "size": 982264,
+    "importance_score": 0
+  },
+  "oculusmirror": {
+    "name": "OculusMirror",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\OculusMirror.exe",
+    "size": 804600,
+    "importance_score": 0
+  },
+  "oculusvrcvalidator": {
+    "name": "OculusVRCValidator",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\OculusVRCValidator.exe",
+    "size": 1387256,
+    "importance_score": 0
+  },
+  "cameratool": {
+    "name": "CameraTool",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\CameraCalibrationTool\\CameraTool.exe",
+    "size": 1499384,
+    "importance_score": 0
+  },
+  "dreamdeck": {
+    "name": "Dreamdeck",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-dreamdeck-nux\\Dreamdeck.exe",
+    "size": 160256,
+    "importance_score": 0
+  },
+  "oculus-driver": {
+    "name": "oculus-driver",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-drivers\\oculus-driver.exe",
+    "size": 38435072,
+    "importance_score": 0
+  },
+  "ovrlibrarian": {
+    "name": "OVRLibrarian",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-librarian\\OVRLibrarian.exe",
+    "size": 235776,
+    "importance_score": 0
+  },
+  "oculus-overlays": {
+    "name": "oculus-overlays",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-overlays\\oculus-overlays.exe",
+    "size": 990136,
+    "importance_score": 0
+  },
+  "oculus-platform-runtime": {
+    "name": "oculus-platform-runtime",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-platform-runtime\\oculus-platform-runtime.exe",
+    "size": 12987128,
+    "importance_score": 0
+  },
+  "ovrredir": {
+    "name": "OVRRedir",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-runtime\\OVRRedir.exe",
+    "size": 1113848,
+    "importance_score": 0
+  },
+  "ovrserver_x64": {
+    "name": "OVRServer_x64",
+    "path": "C:\\Program Files\\Oculus\\Support\\oculus-runtime\\OVRServer_x64.exe",
+    "size": 9389304,
+    "importance_score": 0
+  },
+  "pawnioutil": {
+    "name": "PawnIOUtil",
+    "path": "C:\\Program Files\\PawnIO\\PawnIOUtil.exe",
+    "size": 1350352,
+    "importance_score": 0
+  },
+  "playcastlauncher": {
+    "name": "PlaycastLauncher",
+    "path": "C:\\Program Files\\Playcast\\PlaycastLauncher.exe",
+    "size": 913056,
+    "importance_score": 0
+  },
+  "playcastlauncherui": {
+    "name": "PlaycastLauncherUi",
+    "path": "C:\\Program Files\\Playcast\\PlaycastLauncherUi.exe",
+    "size": 8625312,
+    "importance_score": 0
+  },
+  "legendary": {
+    "name": "legendary",
+    "path": "C:\\Program Files\\Playcast\\Host\\Legendary\\legendary.exe",
+    "size": 8475848,
+    "importance_score": 0
+  },
+  "elevate": {
+    "name": "elevate",
+    "path": "C:\\Program Files\\Playcast\\Host\\resources\\elevate.exe",
+    "size": 119456,
+    "importance_score": 0
+  },
+  "nefconw": {
+    "name": "nefconw",
+    "path": "C:\\Program Files\\Playcast\\nefconw\\nefconw.exe",
+    "size": 807904,
+    "importance_score": 0
+  },
+  "ookla": {
+    "name": "ookla",
+    "path": "C:\\Program Files\\Playcast\\PlayJector\\ookla.exe",
+    "size": 2134528,
+    "importance_score": 0
+  },
+  "playjector": {
+    "name": "PlayJector",
+    "path": "C:\\Program Files\\Playcast\\PlayJector\\PlayJector.exe",
+    "size": 2804896,
+    "importance_score": 0
+  },
+  "vpncmd_x64": {
+    "name": "vpncmd_x64",
+    "path": "C:\\Program Files\\Playcast\\SoftEtherVPN\\vpncmd_x64.exe",
+    "size": 7055104,
+    "importance_score": 0
+  },
+  "prusa-gcodeviewer": {
+    "name": "prusa-gcodeviewer",
+    "path": "C:\\Program Files\\Prusa3D\\PrusaSlicer\\prusa-gcodeviewer.exe",
+    "size": 208272,
+    "importance_score": 0
+  },
+  "prusa-slicer-console": {
+    "name": "prusa-slicer-console",
+    "path": "C:\\Program Files\\Prusa3D\\PrusaSlicer\\prusa-slicer-console.exe",
+    "size": 197008,
+    "importance_score": 0
+  },
+  "prusa-slicer": {
+    "name": "prusa-slicer",
+    "path": "C:\\Program Files\\Prusa3D\\PrusaSlicer\\prusa-slicer.exe",
+    "size": 197008,
+    "importance_score": 0
+  },
+  "dpinstx64": {
+    "name": "dpinstx64",
+    "path": "C:\\Program Files\\Prusa3D\\PrusaSlicer\\Rambo\\dpinstx64.exe",
+    "size": 1049064,
+    "importance_score": 0
+  },
+  "unity.licensing.client": {
+    "name": "Unity.Licensing.Client",
+    "path": "C:\\Program Files\\Unity Hub\\UnityLicensingClient_V1\\Unity.Licensing.Client.exe",
+    "size": 330424,
+    "importance_score": 0
+  },
+  "adb": {
+    "name": "adb",
+    "path": "C:\\Program Files (x86)\\Apowersoft\\ApowerMirror\\adb.exe",
+    "size": 5938176,
+    "importance_score": 0
+  },
+  "apowermirror": {
+    "name": "ApowerMirror",
+    "path": "C:\\Program Files (x86)\\Apowersoft\\ApowerMirror\\ApowerMirror.exe",
+    "size": 15502920,
+    "importance_score": 0
+  },
+  "apowermirrorwifi": {
+    "name": "ApowerMirrorWiFi",
+    "path": "C:\\Program Files (x86)\\Apowersoft\\ApowerMirror\\ApowerMirrorWiFi.exe",
+    "size": 691200,
+    "importance_score": 0
+  },
+  "wxusbmaker": {
+    "name": "WXUsbMaker",
+    "path": "C:\\Program Files (x86)\\Apowersoft\\ApowerMirror\\WXUsbMaker.exe",
+    "size": 6818024,
+    "importance_score": 0
+  },
+  "jaureg": {
+    "name": "jaureg",
+    "path": "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jaureg.exe",
+    "size": 531024,
+    "importance_score": 0
+  },
+  "jucheck": {
+    "name": "jucheck",
+    "path": "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jucheck.exe",
+    "size": 1224784,
+    "importance_score": 0
+  },
+  "jusched": {
+    "name": "jusched",
+    "path": "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jusched.exe",
+    "size": 752208,
+    "importance_score": 0
+  },
+  "drivers": {
+    "name": "drivers",
+    "path": "C:\\Program Files (x86)\\Common Files\\Steam\\drivers.exe",
+    "size": 7498328,
+    "importance_score": 0
+  },
+  "secure_desktop_capture": {
+    "name": "secure_desktop_capture",
+    "path": "C:\\Program Files (x86)\\Common Files\\Steam\\secure_desktop_capture.exe",
+    "size": 3872920,
+    "importance_score": 0
+  },
+  "easyanticheat_eos": {
+    "name": "EasyAntiCheat_EOS",
+    "path": "C:\\Program Files (x86)\\EasyAntiCheat_EOS\\EasyAntiCheat_EOS.exe",
+    "size": 959216,
+    "importance_score": 0
+  },
+  "eosoverlayrenderer-win32-shipping": {
+    "name": "EOSOverlayRenderer-Win32-Shipping",
+    "path": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\managedArtifacts\\98bc04bc842e4906993fd6d6644ffb8d\\EOSOverlayRenderer-Win32-Shipping.exe",
+    "size": 733712,
+    "importance_score": 0
+  },
+  "eosoverlayrenderer-win64-shipping": {
+    "name": "EOSOverlayRenderer-Win64-Shipping",
+    "path": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\managedArtifacts\\98bc04bc842e4906993fd6d6644ffb8d\\EOSOverlayRenderer-Win64-Shipping.exe",
+    "size": 873488,
+    "importance_score": 0
+  },
+  "msedge": {
+    "name": "msedge",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "size": 4342352,
+    "importance_score": 0
+  },
+  "msedge_proxy": {
+    "name": "msedge_proxy",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge_proxy.exe",
+    "size": 1621072,
+    "importance_score": 0
+  },
+  "cookie_exporter": {
+    "name": "cookie_exporter",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.70\\cookie_exporter.exe",
+    "size": 117840,
+    "importance_score": 0
+  },
+  "mscopilot": {
+    "name": "mscopilot",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.70\\mscopilot.exe",
+    "size": 3897936,
+    "importance_score": 0
+  },
+  "msedge_pwa_launcher": {
+    "name": "msedge_pwa_launcher",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.70\\msedge_pwa_launcher.exe",
+    "size": 2033232,
+    "importance_score": 0
+  },
+  "passkey_authenticator_plugin": {
+    "name": "passkey_authenticator_plugin",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.70\\passkey_authenticator_plugin.exe",
+    "size": 1821776,
+    "importance_score": 0
+  },
+  "ie_to_edge_stub": {
+    "name": "ie_to_edge_stub",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\144.0.3719.115\\BHO\\ie_to_edge_stub.exe",
+    "size": 543312,
+    "importance_score": 0
+  },
+  "microsoftedgecomregistershellarm64": {
+    "name": "MicrosoftEdgeComRegisterShellARM64",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.221.3\\MicrosoftEdgeComRegisterShellARM64.exe",
+    "size": 194656,
+    "importance_score": 0
+  },
+  "feedback": {
+    "name": "feedback",
+    "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\feedback.exe",
+    "size": 307576,
+    "importance_score": 0
+  },
+  "vswhere": {
+    "name": "vswhere",
+    "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vswhere.exe",
+    "size": 469456,
+    "importance_score": 0
+  },
+  "vs_layout": {
+    "name": "vs_layout",
+    "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vs_layout.exe",
+    "size": 265136,
+    "importance_score": 0
+  },
+  "gameoverlayui": {
+    "name": "gameoverlayui",
+    "path": "C:\\Program Files (x86)\\Steam\\gameoverlayui.exe",
+    "size": 397976,
+    "importance_score": 0
+  },
+  "gameoverlayui64": {
+    "name": "gameoverlayui64",
+    "path": "C:\\Program Files (x86)\\Steam\\gameoverlayui64.exe",
+    "size": 421016,
+    "importance_score": 0
+  },
+  "streaming_client": {
+    "name": "streaming_client",
+    "path": "C:\\Program Files (x86)\\Steam\\streaming_client.exe",
+    "size": 10983576,
+    "importance_score": 0
+  },
+  "writeminidump": {
+    "name": "WriteMiniDump",
+    "path": "C:\\Program Files (x86)\\Steam\\WriteMiniDump.exe",
+    "size": 284456,
+    "importance_score": 0
+  },
+  "fossilize-replay": {
+    "name": "fossilize-replay",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\fossilize-replay.exe",
+    "size": 2001048,
+    "importance_score": 0
+  },
+  "fossilize-replay64": {
+    "name": "fossilize-replay64",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\fossilize-replay64.exe",
+    "size": 2320024,
+    "importance_score": 0
+  },
+  "gldriverquery64": {
+    "name": "gldriverquery64",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\gldriverquery64.exe",
+    "size": 963872,
+    "importance_score": 0
+  },
+  "vulkandriverquery": {
+    "name": "vulkandriverquery",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\vulkandriverquery.exe",
+    "size": 168600,
+    "importance_score": 0
+  },
+  "vulkandriverquery64": {
+    "name": "vulkandriverquery64",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\vulkandriverquery64.exe",
+    "size": 210072,
+    "importance_score": 0
+  },
+  "x64launcher": {
+    "name": "x64launcher",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\x64launcher.exe",
+    "size": 427672,
+    "importance_score": 0
+  },
+  "x86launcher": {
+    "name": "x86launcher",
+    "path": "C:\\Program Files (x86)\\Steam\\bin\\x86launcher.exe",
+    "size": 402584,
+    "importance_score": 0
+  },
+  "tf": {
+    "name": "tf",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Fortress 2\\tf.exe",
+    "size": 164960,
+    "importance_score": 0
+  },
+  "tf_win64": {
+    "name": "tf_win64",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Fortress 2\\tf_win64.exe",
+    "size": 180832,
+    "importance_score": 0
+  },
+  "trackmania": {
+    "name": "Trackmania",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Trackmania\\Trackmania.exe",
+    "size": 45467720,
+    "importance_score": 0
+  },
+  "launcher": {
+    "name": "launcher",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\launcher.exe",
+    "size": 693744,
+    "importance_score": 0
+  },
+  "wallpaper32": {
+    "name": "wallpaper32",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe",
+    "size": 3824112,
+    "importance_score": 0
+  },
+  "ubisoftconnect": {
+    "name": "UbisoftConnect",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\UbisoftConnect.exe",
+    "size": 669880,
+    "importance_score": 0
+  },
+  "ubisoftextension": {
+    "name": "UbisoftExtension",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\UbisoftExtension.exe",
+    "size": 14723256,
+    "importance_score": 0
+  },
+  "ubisoftgamelauncher": {
+    "name": "UbisoftGameLauncher",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\UbisoftGameLauncher.exe",
+    "size": 1705656,
+    "importance_score": 0
+  },
+  "ubisoftgamelauncher64": {
+    "name": "UbisoftGameLauncher64",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\UbisoftGameLauncher64.exe",
+    "size": 1920184,
+    "importance_score": 0
+  },
+  "upc": {
+    "name": "upc",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\upc.exe",
+    "size": 17192632,
+    "importance_score": 0
+  },
+  "uplaywebcore": {
+    "name": "UplayWebCore",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\UplayWebCore.exe",
+    "size": 942768,
+    "importance_score": 0
+  },
+  "shareplayclient": {
+    "name": "SharePlayClient",
+    "path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\shareplay\\SharePlayClient.exe",
+    "size": 9616056,
+    "importance_score": 0
+  },
+  "vulkaninfo": {
+    "name": "vulkaninfo",
+    "path": "C:\\Program Files (x86)\\VulkanRT\\1.0.65.1\\vulkaninfo.exe",
+    "size": 591672,
+    "importance_score": 0
+  },
+  "vulkaninfo32": {
+    "name": "vulkaninfo32",
+    "path": "C:\\Program Files (x86)\\VulkanRT\\1.0.65.1\\vulkaninfo32.exe",
+    "size": 490808,
+    "importance_score": 0
+  },
+  "squirrel": {
+    "name": "squirrel",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\balena_etcher\\app-2.1.4\\squirrel.exe",
+    "size": 2280600,
+    "importance_score": 0
+  },
+  "bindinstall": {
+    "name": "BINDInstall",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ISC.Bind_Microsoft.Winget.Source_8wekyb3d8bbwe\\BINDInstall.exe",
+    "size": 2786304,
+    "importance_score": 0
+  },
+  "dig": {
+    "name": "dig",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ISC.Bind_Microsoft.Winget.Source_8wekyb3d8bbwe\\dig.exe",
+    "size": 113664,
+    "importance_score": 0
+  },
+  "named": {
+    "name": "named",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ISC.Bind_Microsoft.Winget.Source_8wekyb3d8bbwe\\named.exe",
+    "size": 449024,
+    "importance_score": 0
+  },
+  "vcredist_x64": {
+    "name": "vcredist_x64",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ISC.Bind_Microsoft.Winget.Source_8wekyb3d8bbwe\\vcredist_x64.exe",
+    "size": 15311608,
+    "importance_score": 0
+  },
+  "geforcenow": {
+    "name": "GeForceNOW",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\NVIDIA Corporation\\GeForceNOW\\CEF\\GeForceNOW.exe",
+    "size": 3746848,
+    "importance_score": 0
+  },
+  "geforcenowcontainer": {
+    "name": "GeForceNOWContainer",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\NVIDIA Corporation\\GeForceNOW\\CEF\\GeForceNOWContainer.exe",
+    "size": 1342496,
+    "importance_score": 0
+  },
+  "geforcenowstreamer": {
+    "name": "GeForceNOWStreamer",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\NVIDIA Corporation\\GeForceNOW\\CEF\\GeForceNOWStreamer.exe",
+    "size": 507936,
+    "importance_score": 0
+  },
+  "py": {
+    "name": "py",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Package Cache\\841C7474C4246ED91AEF32BC009B23B2243DA1AC\\py.exe",
+    "size": 807192,
+    "importance_score": 0
+  },
+  "python-3.12.7-amd64": {
+    "name": "python-3.12.7-amd64",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Package Cache\\{e9b7c837-5066-4f10-851a-69179f987b18}\\python-3.12.7-amd64.exe",
+    "size": 879168,
+    "importance_score": 0
+  },
+  "comet": {
+    "name": "comet",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Perplexity\\Comet\\Application\\comet.exe",
+    "size": 3237760,
+    "importance_score": 0
+  },
+  "import_assistant": {
+    "name": "import_assistant",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Perplexity\\Comet\\Application\\143.2.7499.37654\\import_assistant.exe",
+    "size": 1793920,
+    "importance_score": 0
+  },
+  "code-tunnel": {
+    "name": "code-tunnel",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code-tunnel.exe",
+    "size": 22810696,
+    "importance_score": 0
+  },
+  "ollama app": {
+    "name": "ollama app",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Ollama\\ollama app.exe",
+    "size": 25553800,
+    "importance_score": 0
+  },
+  "ollama": {
+    "name": "ollama",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Ollama\\ollama.exe",
+    "size": 36454792,
+    "importance_score": 0
+  },
+  "bam-info": {
+    "name": "bam-info",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\bam-info.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "bam2egg": {
+    "name": "bam2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\bam2egg.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "cginfo": {
+    "name": "cginfo",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\cginfo.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "check_adler": {
+    "name": "check_adler",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\check_adler.exe",
+    "size": 108430,
+    "importance_score": 0
+  },
+  "check_crc": {
+    "name": "check_crc",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\check_crc.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "check_md5": {
+    "name": "check_md5",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\check_md5.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "dae2egg": {
+    "name": "dae2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\dae2egg.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "deploy-stub": {
+    "name": "deploy-stub",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\deploy-stub.exe",
+    "size": 108430,
+    "importance_score": 0
+  },
+  "deploy-stubw": {
+    "name": "deploy-stubw",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\deploy-stubw.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "distro": {
+    "name": "distro",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\distro.exe",
+    "size": 108416,
+    "importance_score": 0
+  },
+  "dotenv": {
+    "name": "dotenv",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\dotenv.exe",
+    "size": 108416,
+    "importance_score": 0
+  },
+  "dxf-points": {
+    "name": "dxf-points",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\dxf-points.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "dxf2egg": {
+    "name": "dxf2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\dxf2egg.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "egg-crop": {
+    "name": "egg-crop",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-crop.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "egg-list-textures": {
+    "name": "egg-list-textures",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-list-textures.exe",
+    "size": 108442,
+    "importance_score": 0
+  },
+  "egg-make-tube": {
+    "name": "egg-make-tube",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-make-tube.exe",
+    "size": 108434,
+    "importance_score": 0
+  },
+  "egg-mkfont": {
+    "name": "egg-mkfont",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-mkfont.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "egg-optchar": {
+    "name": "egg-optchar",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-optchar.exe",
+    "size": 108430,
+    "importance_score": 0
+  },
+  "egg-palettize": {
+    "name": "egg-palettize",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-palettize.exe",
+    "size": 108434,
+    "importance_score": 0
+  },
+  "egg-qtess": {
+    "name": "egg-qtess",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-qtess.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "egg-rename": {
+    "name": "egg-rename",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-rename.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "egg-retarget-anim": {
+    "name": "egg-retarget-anim",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-retarget-anim.exe",
+    "size": 108442,
+    "importance_score": 0
+  },
+  "egg-texture-cards": {
+    "name": "egg-texture-cards",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-texture-cards.exe",
+    "size": 108442,
+    "importance_score": 0
+  },
+  "egg-topstrip": {
+    "name": "egg-topstrip",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-topstrip.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg-trans": {
+    "name": "egg-trans",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg-trans.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "egg2bam": {
+    "name": "egg2bam",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2bam.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "egg2c": {
+    "name": "egg2c",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2c.exe",
+    "size": 108418,
+    "importance_score": 0
+  },
+  "egg2dxf": {
+    "name": "egg2dxf",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2dxf.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "egg2flt": {
+    "name": "egg2flt",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2flt.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "egg2maya2008": {
+    "name": "egg2maya2008",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2008.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2009": {
+    "name": "egg2maya2009",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2009.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2011": {
+    "name": "egg2maya2011",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2011.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2012": {
+    "name": "egg2maya2012",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2012.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2013": {
+    "name": "egg2maya2013",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2013.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2014": {
+    "name": "egg2maya2014",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2014.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2015": {
+    "name": "egg2maya2015",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2015.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2016": {
+    "name": "egg2maya2016",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2016.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya20165": {
+    "name": "egg2maya20165",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya20165.exe",
+    "size": 108434,
+    "importance_score": 0
+  },
+  "egg2maya2017": {
+    "name": "egg2maya2017",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2017.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2018": {
+    "name": "egg2maya2018",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2018.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2019": {
+    "name": "egg2maya2019",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2019.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2020": {
+    "name": "egg2maya2020",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2020.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya2022": {
+    "name": "egg2maya2022",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya2022.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "egg2maya85": {
+    "name": "egg2maya85",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2maya85.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "egg2obj": {
+    "name": "egg2obj",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2obj.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "egg2x": {
+    "name": "egg2x",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\egg2x.exe",
+    "size": 108418,
+    "importance_score": 0
+  },
+  "ffmpeg": {
+    "name": "ffmpeg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\ffmpeg.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "ffplay": {
+    "name": "ffplay",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\ffplay.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "ffprobe": {
+    "name": "ffprobe",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\ffprobe.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "flt-info": {
+    "name": "flt-info",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\flt-info.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "flt-trans": {
+    "name": "flt-trans",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\flt-trans.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "flt2egg": {
+    "name": "flt2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\flt2egg.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "fltcopy": {
+    "name": "fltcopy",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\fltcopy.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "gltf2bam": {
+    "name": "gltf2bam",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\gltf2bam.exe",
+    "size": 108411,
+    "importance_score": 0
+  },
+  "hdr2env": {
+    "name": "hdr2env",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\hdr2env.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "httpx": {
+    "name": "httpx",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\httpx.exe",
+    "size": 108408,
+    "importance_score": 0
+  },
+  "image-info": {
+    "name": "image-info",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\image-info.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "image-resize": {
+    "name": "image-resize",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\image-resize.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "image-trans": {
+    "name": "image-trans",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\image-trans.exe",
+    "size": 108430,
+    "importance_score": 0
+  },
+  "interrogate": {
+    "name": "interrogate",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\interrogate.exe",
+    "size": 108430,
+    "importance_score": 0
+  },
+  "interrogate_module": {
+    "name": "interrogate_module",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\interrogate_module.exe",
+    "size": 108444,
+    "importance_score": 0
+  },
+  "lwo-scan": {
+    "name": "lwo-scan",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\lwo-scan.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "lwo2egg": {
+    "name": "lwo2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\lwo2egg.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "make-prc-key": {
+    "name": "make-prc-key",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\make-prc-key.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2008": {
+    "name": "maya2egg2008",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2008.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2009": {
+    "name": "maya2egg2009",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2009.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2011": {
+    "name": "maya2egg2011",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2011.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2012": {
+    "name": "maya2egg2012",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2012.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2013": {
+    "name": "maya2egg2013",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2013.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2014": {
+    "name": "maya2egg2014",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2014.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2015": {
+    "name": "maya2egg2015",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2015.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2016": {
+    "name": "maya2egg2016",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2016.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg20165": {
+    "name": "maya2egg20165",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg20165.exe",
+    "size": 108434,
+    "importance_score": 0
+  },
+  "maya2egg2017": {
+    "name": "maya2egg2017",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2017.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2018": {
+    "name": "maya2egg2018",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2018.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2019": {
+    "name": "maya2egg2019",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2019.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2020": {
+    "name": "maya2egg2020",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2020.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg2022": {
+    "name": "maya2egg2022",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg2022.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "maya2egg85": {
+    "name": "maya2egg85",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\maya2egg85.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "mayacopy2008": {
+    "name": "mayacopy2008",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2008.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2009": {
+    "name": "mayacopy2009",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2009.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2011": {
+    "name": "mayacopy2011",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2011.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2012": {
+    "name": "mayacopy2012",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2012.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2013": {
+    "name": "mayacopy2013",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2013.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2014": {
+    "name": "mayacopy2014",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2014.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2015": {
+    "name": "mayacopy2015",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2015.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2016": {
+    "name": "mayacopy2016",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2016.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy20165": {
+    "name": "mayacopy20165",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy20165.exe",
+    "size": 108434,
+    "importance_score": 0
+  },
+  "mayacopy2017": {
+    "name": "mayacopy2017",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2017.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2018": {
+    "name": "mayacopy2018",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2018.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2019": {
+    "name": "mayacopy2019",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2019.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2020": {
+    "name": "mayacopy2020",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2020.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy2022": {
+    "name": "mayacopy2022",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy2022.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "mayacopy85": {
+    "name": "mayacopy85",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\mayacopy85.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "multify": {
+    "name": "multify",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\multify.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "normalizer": {
+    "name": "normalizer",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\normalizer.exe",
+    "size": 108437,
+    "importance_score": 0
+  },
+  "obj2egg": {
+    "name": "obj2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\obj2egg.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "openai": {
+    "name": "openai",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\openai.exe",
+    "size": 108425,
+    "importance_score": 0
+  },
+  "p3dcparse": {
+    "name": "p3dcparse",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\p3dcparse.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "parse_file": {
+    "name": "parse_file",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\parse_file.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "pdecrypt": {
+    "name": "pdecrypt",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pdecrypt.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "pencrypt": {
+    "name": "pencrypt",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pencrypt.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "pfm-bba": {
+    "name": "pfm-bba",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pfm-bba.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "pfm-trans": {
+    "name": "pfm-trans",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pfm-trans.exe",
+    "size": 108426,
+    "importance_score": 0
+  },
+  "pfreeze": {
+    "name": "pfreeze",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pfreeze.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "pip": {
+    "name": "pip",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pip.exe",
+    "size": 108425,
+    "importance_score": 0
+  },
+  "pip3.12": {
+    "name": "pip3.12",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pip3.12.exe",
+    "size": 108425,
+    "importance_score": 0
+  },
+  "pip3": {
+    "name": "pip3",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pip3.exe",
+    "size": 108425,
+    "importance_score": 0
+  },
+  "pstats": {
+    "name": "pstats",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pstats.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "punzip": {
+    "name": "punzip",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\punzip.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "pview": {
+    "name": "pview",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pview.exe",
+    "size": 108418,
+    "importance_score": 0
+  },
+  "pyi-archive_viewer": {
+    "name": "pyi-archive_viewer",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyi-archive_viewer.exe",
+    "size": 108442,
+    "importance_score": 0
+  },
+  "pyi-bindepend": {
+    "name": "pyi-bindepend",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyi-bindepend.exe",
+    "size": 108437,
+    "importance_score": 0
+  },
+  "pyi-grab_version": {
+    "name": "pyi-grab_version",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyi-grab_version.exe",
+    "size": 108440,
+    "importance_score": 0
+  },
+  "pyi-makespec": {
+    "name": "pyi-makespec",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyi-makespec.exe",
+    "size": 108436,
+    "importance_score": 0
+  },
+  "pyi-set_version": {
+    "name": "pyi-set_version",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyi-set_version.exe",
+    "size": 108439,
+    "importance_score": 0
+  },
+  "pywin32_postinstall": {
+    "name": "pywin32_postinstall",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pywin32_postinstall.exe",
+    "size": 108436,
+    "importance_score": 0
+  },
+  "pywin32_testall": {
+    "name": "pywin32_testall",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pywin32_testall.exe",
+    "size": 108432,
+    "importance_score": 0
+  },
+  "pzip": {
+    "name": "pzip",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pzip.exe",
+    "size": 108416,
+    "importance_score": 0
+  },
+  "show_ddb": {
+    "name": "show_ddb",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\show_ddb.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "test_interrogate": {
+    "name": "test_interrogate",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\test_interrogate.exe",
+    "size": 108440,
+    "importance_score": 0
+  },
+  "text-stats": {
+    "name": "text-stats",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\text-stats.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "tqdm": {
+    "name": "tqdm",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\tqdm.exe",
+    "size": 108411,
+    "importance_score": 0
+  },
+  "vrml-trans": {
+    "name": "vrml-trans",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\vrml-trans.exe",
+    "size": 108428,
+    "importance_score": 0
+  },
+  "vrml2egg": {
+    "name": "vrml2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\vrml2egg.exe",
+    "size": 108424,
+    "importance_score": 0
+  },
+  "x-trans": {
+    "name": "x-trans",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\x-trans.exe",
+    "size": 108422,
+    "importance_score": 0
+  },
+  "x2egg": {
+    "name": "x2egg",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\x2egg.exe",
+    "size": 108418,
+    "importance_score": 0
+  },
+  "f2py": {
+    "name": "f2py",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\f2py.exe",
+    "size": 108391,
+    "importance_score": 0
+  },
+  "hf": {
+    "name": "hf",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\hf.exe",
+    "size": 108396,
+    "importance_score": 0
+  },
+  "huggingface-cli": {
+    "name": "huggingface-cli",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\huggingface-cli.exe",
+    "size": 108414,
+    "importance_score": 0
+  },
+  "isympy": {
+    "name": "isympy",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\isympy.exe",
+    "size": 108380,
+    "importance_score": 0
+  },
+  "numpy-config": {
+    "name": "numpy-config",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\numpy-config.exe",
+    "size": 108391,
+    "importance_score": 0
+  },
+  "pip3.14": {
+    "name": "pip3.14",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\pip3.14.exe",
+    "size": 108396,
+    "importance_score": 0
+  },
+  "tiny-agents": {
+    "name": "tiny-agents",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\tiny-agents.exe",
+    "size": 108406,
+    "importance_score": 0
+  },
+  "torchfrtrace": {
+    "name": "torchfrtrace",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\torchfrtrace.exe",
+    "size": 108404,
+    "importance_score": 0
+  },
+  "torchrun": {
+    "name": "torchrun",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\torchrun.exe",
+    "size": 108395,
+    "importance_score": 0
+  },
+  "transformers-cli": {
+    "name": "transformers-cli",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\transformers-cli.exe",
+    "size": 108420,
+    "importance_score": 0
+  },
+  "transformers": {
+    "name": "transformers",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\transformers.exe",
+    "size": 108412,
+    "importance_score": 0
+  },
+  "python3-64": {
+    "name": "python3-64",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\python3-64.exe",
+    "size": 602968,
+    "importance_score": 0
+  },
+  "python3.14-64": {
+    "name": "python3.14-64",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\python3.14-64.exe",
+    "size": 602968,
+    "importance_score": 0
+  },
+  "python3.14": {
+    "name": "python3.14",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\python3.14.exe",
+    "size": 602968,
+    "importance_score": 0
+  },
+  "python3": {
+    "name": "python3",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\python3.exe",
+    "size": 602968,
+    "importance_score": 0
+  },
+  "pythonw": {
+    "name": "pythonw",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\pythonw.exe",
+    "size": 602456,
+    "importance_score": 0
+  },
+  "pythonw3-64": {
+    "name": "pythonw3-64",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\pythonw3-64.exe",
+    "size": 602456,
+    "importance_score": 0
+  },
+  "pythonw3.14-64": {
+    "name": "pythonw3.14-64",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\pythonw3.14-64.exe",
+    "size": 602456,
+    "importance_score": 0
+  },
+  "pythonw3.14": {
+    "name": "pythonw3.14",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\pythonw3.14.exe",
+    "size": 602456,
+    "importance_score": 0
+  },
+  "pythonw3": {
+    "name": "pythonw3",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Python\\bin\\pythonw3.exe",
+    "size": 602456,
+    "importance_score": 0
+  },
+  "un_a": {
+    "name": "Un_A",
+    "path": "C:\\Users\\Oliver\\AppData\\Local\\Temp\\~nsu.tmp\\Un_A.exe",
+    "size": 238096,
+    "importance_score": 0
+  }
+}
