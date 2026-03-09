@@ -1,9 +1,10 @@
 import tkinter as tk
-from tkinter import messagebox
+from tkinter import messagebox, scrolledtext
 import json
 import os
 from supabase import create_client, Client
 from core.logger import get_logger
+from ai.assistant import ai_assistant  # Import the AI assistant
 
 logger = get_logger("GUI")
 
@@ -123,13 +124,11 @@ class WatchDogGUI:
         run_btn = tk.Button(self.root, text="Run Monitoring", command=self.run_monitoring)
         run_btn.pack(pady=5)
 
-        ai_btn = tk.Button(self.root, text="AI Assistant", command=self.ai_assistant)
+        ai_btn = tk.Button(self.root, text="AI Assistant", command=self.open_ai_assistant)
         ai_btn.pack(pady=5)
 
         logout_btn = tk.Button(self.root, text="Logout", command=self.do_logout)
         logout_btn.pack(pady=5)
-
-        # Add more buttons as needed
 
     def do_logout(self):
         try:
@@ -146,9 +145,70 @@ class WatchDogGUI:
         # Placeholder
         messagebox.showinfo("Info", "Monitoring started")
 
-    def ai_assistant(self):
-        # Placeholder
-        messagebox.showinfo("Info", "AI Assistant")
+    def open_ai_assistant(self):
+        """Open the AI Assistant window"""
+        ai_window = tk.Toplevel(self.root)
+        ai_window.title("AI Assistant")
+        ai_window.geometry("700x500")
+
+        # Chat display area
+        chat_frame = tk.Frame(ai_window)
+        chat_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+
+        self.chat_display = scrolledtext.ScrolledText(chat_frame, wrap=tk.WORD, state=tk.DISABLED)
+        self.chat_display.pack(fill=tk.BOTH, expand=True)
+
+        # Input frame
+        input_frame = tk.Frame(ai_window)
+        input_frame.pack(fill=tk.X, padx=10, pady=(0, 10))
+
+        self.user_input = tk.Entry(input_frame, font=("Arial", 12))
+        self.user_input.pack(side=tk.LEFT, fill=tk.X, expand=True, ipady=5)
+        self.user_input.bind("<Return>", self.send_message)  # Enter key sends message
+
+        send_button = tk.Button(input_frame, text="Send", command=self.send_message)
+        send_button.pack(side=tk.RIGHT, padx=(5, 0))
+
+        # Initial greeting
+        self.display_message("AI Assistant", "Hello! I'm your AI assistant. How can I help you today?", "assistant")
+
+    def send_message(self, event=None):
+        """Send user message to AI and display response"""
+        user_text = self.user_input.get().strip()
+        if not user_text:
+            return
+
+        # Display user message
+        self.display_message("You", user_text, "user")
+        self.user_input.delete(0, tk.END)
+
+        # Get AI response
+        try:
+            result = ai_assistant.query_ai(user_text)
+            ai_response = result['response']
+            self.display_message("AI Assistant", ai_response, "assistant")
+        except Exception as e:
+            self.display_message("AI Assistant", f"Sorry, I encountered an error: {str(e)}", "assistant")
+
+    def display_message(self, sender, message, role):
+        """Display a message in the chat window"""
+        self.chat_display.config(state=tk.NORMAL)
+        
+        # Add sender tag with formatting
+        if role == "user":
+            self.chat_display.insert(tk.END, f"{sender}: ", "user_tag")
+        else:
+            self.chat_display.insert(tk.END, f"{sender}: ", "assistant_tag")
+            
+        # Add message content
+        self.chat_display.insert(tk.END, f"{message}\n\n")
+        
+        # Configure tags for styling
+        self.chat_display.tag_config("user_tag", foreground="blue", font=("Arial", 10, "bold"))
+        self.chat_display.tag_config("assistant_tag", foreground="green", font=("Arial", 10, "bold"))
+        
+        self.chat_display.config(state=tk.DISABLED)
+        self.chat_display.see(tk.END)  # Scroll to bottom
 
     def clear_window(self):
         for widget in self.root.winfo_children():

@@ -86,17 +86,54 @@ class AIPoweredAssistant:
     def query_ai(self, user_input: str) -> Dict[str, Any]:
         if self.use_ollama:
             # Use Ollama AI for natural language responses
-            response = self.ollama_ai.chat(user_input)
+            ai_response = self.ollama_ai.chat(user_input)
+            
+            # Interpret command for execution
+            interpreted_command = self._interpret_command(user_input)
+            
+            # Execute actual command if needed
+            if interpreted_command['command'] in ['launch', 'kill']:
+                execution_result = self._execute_command(interpreted_command)
+                final_response = execution_result
+            else:
+                final_response = ai_response
+                
             return {
-                'response': response,
-                'command': 'ollama_response',
-                'arguments': [],
-                'confidence': 1.0,
-                'needs_confirmation': False
+                'response': final_response,
+                'command': interpreted_command['command'],
+                'arguments': interpreted_command['arguments'],
+                'confidence': interpreted_command['confidence'],
+                'needs_confirmation': interpreted_command['needs_confirmation']
             }
         else:
             # Fallback to basic assistant
             return self._basic_query(user_input)
+    
+    def _execute_command(self, command_data):
+        """Execute actual system commands based on interpreted command"""
+        command = command_data['command']
+        arguments = command_data['arguments']
+        
+        if command == 'launch' and arguments:
+            try:
+                from modules.app_launcher.launcher import AppLauncher
+                launcher = AppLauncher()
+                result = launcher.launch_application(arguments[0])
+                return result
+            except Exception as e:
+                return f"❌ Error executing launch command: {e}"
+        
+        elif command == 'kill' and arguments:
+            try:
+                from modules.process_manager.monitor import ProcessMonitor
+                monitor = ProcessMonitor()
+                # Implement kill logic here
+                return f"Attempting to terminate {arguments[0]}..."
+            except Exception as e:
+                return f"❌ Error executing kill command: {e}"
+        
+        # Return AI response if no execution needed
+        return command_data.get('response', 'Command processed')
     
     def _basic_query(self, user_input: str) -> Dict[str, Any]:
         """Basic fallback implementation"""
