@@ -6,7 +6,6 @@
 - 🔧 Application launcher and scanner
 - 🔒 Security monitoring
 - 🔄 Auto-update system
-- 🎤 Voice UI capabilities
 
 ## Installation
 1. Run the installer
