@@ -1,0 +1,16 @@
+﻿{
+    "version": "1.2.0",
+    "debug": false,
+    "log_level": "INFO",
+    "auto_update": true,
+    "repo_owner": "LogicFordge961",
+    "repo_name": "WatchDog",
+    "github_token": null,
+    "allow_prerelease": false,
+    "asset_name_pattern": "windows",    
+    "update_channel": "latest",
+    "ai_enabled": true,
+    "sync_enabled": false,
+    "monitoring_interval": 5,
+    "anthropic_api_key": "your-anthropic-api-key-here"
+}
