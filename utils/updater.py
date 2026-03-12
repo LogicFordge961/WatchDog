@@ -13,7 +13,7 @@ from core.logger import get_logger
 logger = get_logger("Updater")
 
 class GitHubUpdater:
-    def __init__(self, repo_owner="yourusername", repo_name="watchdog", current_version="1.0.0"):
+    def __init__(self, repo_owner="LogicFordge961", repo_name="WatchDog", current_version="1.2.0"):
         self.repo_owner = repo_owner
         self.repo_name = repo_name
         self.current_version = current_version
@@ -380,7 +380,7 @@ def create_updater_from_config(default_owner='yourusername', default_name='watch
 
 
 # Global updater instance created from configuration (falls back to sensible defaults)
-updater = create_updater_from_config(default_owner="LogicFordge961", default_name="WatchDog", default_version="1.0.0")
+updater = create_updater_from_config(default_owner="LogicFordge961", default_name="WatchDog", default_version="1.2.0")
 
 def check_for_updates(auto_update=False):
     """Check for updates and optionally auto-update"""
